@@ -1,5 +1,5 @@
 {
-    "name": "helios-ag/fm-rfm-bundle",
+    "name": "izapbrasil/fm-rfm-bundle",
     "description": "FMRichfilemanager bundle, adds Richfilemanager file manager to your Symfony project",
     "keywords": ["Richfilemanager","file manager","wysiwyg"],
     "type": "symfony-bundle",
