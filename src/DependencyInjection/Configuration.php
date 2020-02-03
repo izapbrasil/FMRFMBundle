@@ -167,6 +167,7 @@ class Configuration implements ConfigurationInterface
                                                 ->defaultValue($this->defaultPatternRestrictions)
                                             ->end()
                                         ->end()
+                                    ->end()
                                     ->arrayNode('symlinks')
                                         ->addDefaultsIfNotSet()
                                         ->children()
